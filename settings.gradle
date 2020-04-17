@@ -1,0 +1,2 @@
+rootProject.name='MSPhotoEditor'
+include ':app'
